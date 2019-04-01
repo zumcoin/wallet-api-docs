@@ -1642,7 +1642,7 @@
         "properties": {
           "errorCode": {
             "type": "integer",
-            "description": "A numeric code representing the error, for programmatic use. Error code mappings can be found here - https://github.com/zumcoin-org/zumcoin/blob/development/src/WalletBackend/WalletErrors.h We will endeavour to not change these mappings.",
+            "description": "A numeric code representing the error, for programmatic use. Error code mappings can be found here - https://github.com/zumcoin/zumcoin/blob/development/src/WalletBackend/WalletErrors.h We will endeavour to not change these mappings.",
             "example": 5
           },
           "errorMessage": {
